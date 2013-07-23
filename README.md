@@ -23,4 +23,4 @@ MySQL provides the backend database while the front end is supported by PHP.
 Execution
 ==============
 
-host all files on a server, and then launch index.php in a browser.
+host all files on a server, and then launch login.php in a browser.
